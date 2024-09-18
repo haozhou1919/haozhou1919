@@ -1,5 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Hao Zhou!
 
+I'm a Master's student in Computer Science at USC, with interests in **Full-Stack Development**, **Distributed Systems** and **Cloud**. I love building scalable applications and exploring new technologies.
+
+### 🔭 Current Focus
+- Full-stack development using **React.js**, **Node.js**, and **Express**.
+- Exploring **cloud technologies** and **distributed systems**.
+
+### 🌱 Learning
+- **Cloud computing** and **microservices**.
+- **DevOps** tools like Docker & Kubernetes.
+
+### 📫 Get in Touch
+- [Email Me](mailto:contact.haozhou@gmail.com)
+- [My LinkedIn](https://www.linkedin.com/in/hao-zhou-/)
 <!--
 **haozhou1919/haozhou1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
