@@ -12,7 +12,7 @@ I'm a Master's student in Computer Science at USC, with interests in **Full-Stac
 
 ### 📫 Get in Touch
 - [Email Me](mailto:contact.haozhou@gmail.com)
-- connect with me on <a href="https://www.linkedin.com/in/hao-zhou-" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- Connect with me on <a href="https://www.linkedin.com/in/hao-zhou-" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **haozhou1919/haozhou1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
